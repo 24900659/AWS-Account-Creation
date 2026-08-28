@@ -71,8 +71,9 @@ Services Overview:
 
 ## OUTPUT
 <img width="1260" height="617" alt="image" src="https://github.com/user-attachments/assets/800514a9-2fd6-4ea5-8ac2-ed6c20df5fee" />
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1262" height="562" alt="Screenshot 2026-08-28 094907" src="https://github.com/user-attachments/assets/77000ba4-82b5-44ae-b24c-b460236c9436" />
+
+
 
 
 ## RESULT
