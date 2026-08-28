@@ -71,7 +71,7 @@ Services Overview:
 • Explore all the available services in AWS platform.
 
 ## OUTPUT
-<img width="1260" height="617" alt="image" src="https://github.com/user-attachments/assets/800514a9-2fd6-4ea5-8ac2-ed6c20df5fee" />
+<img width="1260" height="573" alt="Screenshot 2026-08-28 094831" src="https://github.com/user-attachments/assets/a64c7d43-a5f6-4e54-97fd-3f159f98e7a3" />
 <img width="1262" height="562" alt="Screenshot 2026-08-28 094907" src="https://github.com/user-attachments/assets/77000ba4-82b5-44ae-b24c-b460236c9436" />
 <img width="1265" height="570" alt="Screenshot 2026-08-28 094928" src="https://github.com/user-attachments/assets/34e1b4c9-a87a-496f-90c5-b2abbd32feb3" />
 
